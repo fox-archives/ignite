@@ -1,0 +1,6 @@
+github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3 h1:baVdMKlASEHrj19iqjARrPbaRisD7EuZEVJj6ZMLl1Q=
+github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3/go.mod h1:VEPNJUlxl5KdWjDvz6Q1l+rJlxF2i6xqDeGuGAxa87M=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20220601234331-25dea46fc2d9 h1:27koIsxg4DkkJ5kq3zibpuVSGln1f0YOGQTTuEsuAsY=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20220601234331-25dea46fc2d9/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
+github.com/hyperupcall/foxtrot-go v0.0.0-20220615040634-2a93e3e679aa h1:S8ZHiJN7CXFE2Ryipmi8LCtXumMnFfA1inR9x5n7ub8=
+github.com/hyperupcall/foxtrot-go v0.0.0-20220615040634-2a93e3e679aa/go.mod h1:Tl98rXWpGYJin1vHwhWTllJt6T9ZHwfGDyyJ4LClvDI=
